@@ -1,2 +1,2 @@
-# MovimientoParab-lcio
+# MovimientoParabalcio
 Simulación del Movimiento Parabólico 
